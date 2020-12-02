@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import UnityEngine
+from UnityEngine import *
+
+UnityEngine.Debug.Log("Hello World")
