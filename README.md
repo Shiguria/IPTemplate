@@ -34,3 +34,6 @@ C#からIronPythonを利用してみる
 http://xn--rssu31gj1g.jp/?page=nobu_mod_the_snmod_methodref_ironpython_csharp
 
 
+Qiita Pythonで学ぶシンセサイザー
+https://qiita.com/a2kiti/items/4449d15e16c1793fd53f
+
