@@ -37,3 +37,8 @@ http://xn--rssu31gj1g.jp/?page=nobu_mod_the_snmod_methodref_ironpython_csharp
 Qiita Pythonで学ぶシンセサイザー
 https://qiita.com/a2kiti/items/4449d15e16c1793fd53f
 
+Unityでサイン波とか使って音を鳴らしたい！
+https://qiita.com/amano-kiyoyuki/items/ab024d71a862f65e684b
+
+AudioClipなしで音が鳴る動的波形生成
+https://techblog.kayac.com/dynamic-waveform-generation-without-audio-clip
